@@ -42,7 +42,7 @@
       									<div class="container-fluid" id="last">
                                         
                                                          <div class="col-lg-9"> 
-                     <p> Copyright © Indian Railway || Powered by <strong style="color:#005BB7;"><a href="#">Designed and Built with all the love in the world by Aditya & Kavya & Anurag & Shivam.</a></strong> </p>
+                     <p> Copyright © Indian Railway || Powered by <strong style="color:#005BB7;"><a href="#">Designed and Built with all the love in the world by Aditya Singh and TechSrijan Consultancy Services Pvt Ltd.</a></strong> </p>
                                                         </div>
                    <div class="col-lg-3" style="color:#FFFFFF; padding-left:0px;"> 
                                                         
