@@ -1,6 +1,6 @@
 # RailAsset-Management-System
 
-• Tech Stack: HTML, CSS, Bootstrap 4, JavaScript, PHP with MySQL.
+• Tech Stack: HTML 5, CSS 3, Bootstrap 4, JavaScript, AJAX, jQuery and PHP with MySQL.
 
 
 • Developed a Web Application that help Railways to keep records of assests at Platforms.
